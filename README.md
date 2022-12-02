@@ -17,6 +17,8 @@
 - data
 - code
 - spotlight
+- more about the author
+- references
 
 
 
@@ -40,6 +42,10 @@
 - Presentations
 - Review articles
 - Media appearance
+
+## More about the Author
+- headshot
+- self-introduction
 
 ## References
 
