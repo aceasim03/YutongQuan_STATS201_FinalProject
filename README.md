@@ -34,8 +34,8 @@
 - ...
 
 ## Spotlight
-- Figures
 - Posters
+- Figures
 - Slides
 - Presentations
 - Review articles
