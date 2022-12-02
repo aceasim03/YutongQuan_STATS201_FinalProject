@@ -46,7 +46,9 @@
 ## More about the Author
 - headshot
 - self-introduction
-- Insights about how to apply a various machine learning methods to solve social science issues
+- Final refelections 
+
+[how to apply a various machine learning methods to solve social science issues?]
 
 ## References
 
