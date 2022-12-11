@@ -41,6 +41,7 @@ The research project is expected to contribute to combining the fields of combin
 
 ## Spotlight
 - **Posters**:
+
 ![poster](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/poster/STATS201%20Poster.png)
 - Figures
 - Slides
