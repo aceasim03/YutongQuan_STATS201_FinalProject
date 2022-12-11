@@ -57,7 +57,7 @@ The research project is expected to contribute to combining the fields of combin
 <img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/literature_review/STATS201%402x.png" height="20" alt="Contribution to Literature"/><br/>
 
 ## More about the Author
-<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/author/yt_edit.jpg" width="800" alt="yutong"/><br/>
+<img src="https://raw.githubusercontent.com/yutongquan/Yutong-Quan/main/image/yutong.quan.jpg" width="800" alt="yutong"/><br/>
 - **Self Introduction**: 
 Yutong Quan is a junior student majoring in Political Economy with Economics track at Duke Kunshan University. She is interested in Finance, Artificial intelligence, Blockchain, and Behavior Economics.
 - **Final reflections**:
