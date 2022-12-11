@@ -60,6 +60,9 @@ Figure No.3 is the histogram of [Random Forest Regression](https://scikit-learn.
 - **Literature Review**:
 
 <img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/literature_review/STATS201%402x.png" height="500" alt="Contribution to Literature"/><br/>
+*Figure No.4. Contribution to Literature (created by [Whimsical](https://whimsical.com))*
+
+Figure No.4 provides a brief outline of the literature review in terms of research background, methodology, and application scenario, as well as the contribution our project makes to the existing literature.
 
 ## More about the Author
 <img src="https://raw.githubusercontent.com/yutongquan/Yutong-Quan/main/image/yutong.quan.jpg" width="100" alt="yutong"/><br/>
