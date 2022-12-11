@@ -49,7 +49,7 @@ The research project is expected to contribute to combining the fields of combin
 - Media appearance
 
 ## More about the Author
-<div align = center>![Yutong](https://raw.githubusercontent.com/yutongquan/Yutong-Quan/main/image/yutong.quan.jpg)
+![Yutong](https://raw.githubusercontent.com/yutongquan/Yutong-Quan/main/image/yutong.quan.jpg)
 - **Self Introduction**: 
 Yutong Quan is a junior student majoring in Political Economy with Economics track at Duke Kunshan University. She is interested in Finance, Artificial intelligence, Blockchain, and Behavior Economics.
 - **Final reflections**：
