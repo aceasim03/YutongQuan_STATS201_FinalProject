@@ -1,24 +1,24 @@
 # Aave meets Twitter: Predicting the price of cryptocurrency using social sentiment analysis
-## Project information
+## General information
 - **Author**: Yutong Quan, Political Economy (Economics), Class of 2024, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Final Project for [STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: Firstly, I would like to express my greatest gratitude to Prof. Luyao Zhang for her generous and inspiring instructions on STATS201 Introduction to Machine Learning for Social Science. Also, I would like to thank all my classmates for their valuable comments on this project.
-- **Project Summary**: 
-  - **Background & Motivation**:
+## Project Summary
+- **Background & Motivation**:
 Cryptocurrencies have become a popular research subject in financial markets. Since they do not have the fundamental value of the currency, predicting the price of cryptocurrencies is an important and complex question. Based on the literature, we find that social media sentiment is an important indicator of driving cryptocurrency price movements. For example, more positive tweets are associated with higher cryptocurrency value. However, existing research on cryptocurrency price prediction has mainly focused on the two main currencies, Bitcoin and Ethereum, and has not extended to other tokens. 
-  - **Research Questions**:
+- **Research Questions**:
 Therefore, our study will focus on Aave, a native utility token of a top-one decentralization finance application on Ethereum, and explore how to predict the price of Aave using social sentiment analysis.
-  - **Application Scenario**: 
+- **Application Scenario**: 
 Our raw input variables: The historical time-series data of monetary value of Aave, and the tweets with specific hashtags.
-*#Cryptocurrency Data#*: Our data set comprises daily market prices (AAVE–USD exchange rates) from [Alpha Vantage API](https://www.alphavantage.co/documentation/#currency-daily). We include open price, high price, low price, close price, and daily volume of AAVE from Oct 2020 to Dec 2022 in the dataset.
-*#Social Media Data#*:  We collect tweets that contained the hashtag (#Aave/#AAVE) from [snscrape API](https://github.com/JustAnotherArchivist/snscrape). The timestamp is also from Oct 2020 to Dec 2022.
+  - **Cryptocurrency Data**: Our data set comprises daily market prices (AAVE–USD exchange rates) from [Alpha Vantage API](https://www.alphavantage.co/documentation/#currency-daily). We include open price, high price, low price, close price, and daily volume of AAVE from Oct 2020 to Dec 2022 in the dataset.
+  - **Social Media Data**:  We collect tweets that contained the hashtag (#Aave/#AAVE) from [snscrape API](https://github.com/JustAnotherArchivist/snscrape). The timestamp is also from Oct 2020 to Dec 2022.
 
-  - **Methodology**: 
+- **Methodology**: 
 First, we apply the Valence Aware Dictionary and sEntiment Reasoner (VADER) to quantify the sentiment polarity (positive/negative) and sentiment intensity (-1~1) of tweets. Then, we use the Exponential Moving Average (EMA) to measure the volatility of Aave’s price. Finally, we use the Vector Error Correction Model (VECM) to predict Aave’s price with social sentiment scores.
-  - **Expected Results**: 
+- **Expected Results**: 
 
-  - **Intellectual Merit & Practical Impacts**: 
+- **Intellectual Merit & Practical Impacts**: 
 The research project is expected to contribute to combining the fields of combining cryptocurrency forecasting, social sentiment analysis, and econometric methods. In addition, it enriches the research on the Aave token by combining social sentiment with the prediction of Aave’s price for the first time, encouraging more exploration of this token. It has important practical implications to predict the value of Aave more accurately through social sentiment analysis. On the one hand, our results provide a reference for cryptocurrency investors to estimate future price volatility and calculate expected returns. On the other hand, policymakers can disentangle the forces behind cryptocurrencies to craft regulations and curb financial stability risks.
 
 ## Table of Contents
