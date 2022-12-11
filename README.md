@@ -45,6 +45,13 @@ The research project is expected to contribute to combining the fields of combin
 ![poster](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/poster/STATS201%20Poster.png)
 *Figure No.1. Project Poster (created by [Canva](https://www.canva.com/design/DAFT4IoV8IA/oWx29r3k_Kc1GwRRdocM2g/view?utm_content=DAFT4IoV8IA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))*
 
+- **Literature Review**:
+
+<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/literature_review/STATS201%402x.png" height="500" alt="Contribution to Literature"/><br/>
+*Figure No.4. Contribution to Literature (created by [Whimsical](https://whimsical.com))*
+
+Figure No.4 provides a brief outline of the literature review in terms of research background, methodology, and application scenario, as well as the contribution our project makes to the existing literature.
+
 - **Figures**:
 
 <img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/figures/MLC_ConfusionMatrix.png" width="500" alt="cm"/><br/>
@@ -56,13 +63,6 @@ Figure No.2 is the confusion matrix of [Multi-Layer Classification](https://scik
 *Figure No.3. The Regression Histogram for Random Forest Regression (source from [Alpha Vantage: Digital & Crypto Currencies/DIGITAL_CURRENCY_DAILY](https://www.alphavantage.co/documentation/#digital-currency), created by [sklearn.ensemble.RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#sklearn-ensemble-randomforestregressor))*
 
 Figure No.3 is the histogram of [Random Forest Regression](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn-neural-network-mlpclassifier) algorithm for Aave ROI prediction. The histogram provides an evaluation of the performance of the regression algorithm we use. For the data set we used for prediction, the X variable is the past 30-day moving average of daily return on investment of Aave, the Y variable is the future return on investment. In this figure, the X-axis is the predicted ROI value of Aave and the Y-axis is the amount of data set, where a larger number means more predicted values in this interval, while a smaller number means fewer predicted values. Blue represents the true rate of return and green represents our predicted rate of return. The figure shows that the blue and green squares highly coincide, which means that the predicted results are highly close to the true results. In addtion, the R2 score is equal to 0.79 (the closer to 1, the better), it also shows that our model has a high accuracy.
-
-- **Literature Review**:
-
-<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/literature_review/STATS201%402x.png" height="500" alt="Contribution to Literature"/><br/>
-*Figure No.4. Contribution to Literature (created by [Whimsical](https://whimsical.com))*
-
-Figure No.4 provides a brief outline of the literature review in terms of research background, methodology, and application scenario, as well as the contribution our project makes to the existing literature.
 
 ## More about the Author
 <img src="https://raw.githubusercontent.com/yutongquan/Yutong-Quan/main/image/yutong.quan.jpg" width="100" alt="yutong"/><br/>
