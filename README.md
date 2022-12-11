@@ -35,7 +35,7 @@ The research project is expected to contribute to combining the fields of combin
 | **Processed Data** | [Aave_Processed](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/tree/main/data/Processed_Data) |                                 -                                |
 
 ## Code
-- Query Data
+- [Query Data](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/code/Aave_data_query.ipynb)
 - Process Data
 - Analyze Data
 - ...
