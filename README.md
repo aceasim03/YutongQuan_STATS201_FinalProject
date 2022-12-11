@@ -44,11 +44,11 @@ The research project is expected to contribute to combining the fields of combin
 
 ![poster](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/poster/STATS201%20Poster.png)
 
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+- **Figures**:
+
+- **Review articles**:
+
+![Contribution to Literature]()
 
 ## More about the Author
 ![Yutong](https://raw.githubusercontent.com/yutongquan/Yutong-Quan/main/image/yutong.quan.jpg)
