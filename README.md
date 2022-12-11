@@ -49,7 +49,7 @@ urlhttps://www.canva.com/design/DAFT4IoV8IA/oWx29r3k_Kc1GwRRdocM2g/view?utm_cont
 - Media appearance
 
 ## More about the Author
-- ![Yutong](./image/yutong.quan.jpg)
+- ![Yutong]([./image/yutong.quan.jpg](https://raw.githubusercontent.com/yutongquan/Yutong-Quan/main/image/yutong.quan.jpg))
 - **Self Introduction**: 
 Yutong Quan is a junior student majoring in Political Economy with Economics track at Duke Kunshan University. She is interested in Finance, Artificial intelligence, Blockchain, and Behavior Economics.
 - **Final reflections**：
