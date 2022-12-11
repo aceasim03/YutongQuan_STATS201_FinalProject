@@ -49,20 +49,44 @@ The research project is expected to contribute to combining the fields of combin
 - Media appearance
 
 ## More about the Author
-- headshot
-- self-introduction
-- Final reflections 
-
+- ![Yutong](./image/yutong.quan.jpg)
+- **Self Introduction**: 
+Yutong Quan is a junior student majoring in Political Economy with Economics track at Duke Kunshan University. She is interested in Finance, Artificial intelligence, and Behavior Economics.
+- **Final reflections**：
 [how to apply a various machine learning methods to solve social science issues?]
 
 ## References
 
 ### Data Source
-- Data Source Title and URL
+[Alpha Vantage: Digital & Crypto Currencies/DIGITAL_CURRENCY_DAILY](https://www.alphavantage.co/documentation/#digital-currency)
 ### Code Source
-- Code Source Title and URL
+[stats201-tutorial-prediction/code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
 ### Articles
-- Article Source Title and URL
+[“Cryptocurrency Price Prediction Using Tweet Volumes and Sentiment Analysis.”](https://scholar.smu.edu/cgi/viewcontent.cgi?article=1039&context=datasciencereview.)
+
+[“Are Decentralized Finance Really Decentralized? A Social Network Analysis of the Aave Protocol on the Ethereum Blockchain.”](https://doi.org/10.48550/arXiv.2206.08401.)
+
+[“The Link between Cryptocurrencies and Google Trends Attention.”](https://doi.org/10.1016/j.frl.2021.102654.)
+
+[“Bitcoin - Asset or Currency? Revealing Users’ Hidden Intentions.”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2425247.)
+
+[“VADER: A Parsimonious Rule-Based Model for Sentiment Analysis of Social Media Text.”](https://ojs.aaai.org/index.php/ICWSM/article/view/14550.)
+
+[“BitCoin Meets Google Trends and Wikipedia: Quantifying the Relationship between Phenomena of the Internet Era.”](https://doi.org/10.1038/srep03415.)
+
+[“What Are the Main Drivers of the Bitcoin Price? Evidence from Wavelet Coherence Analysis.”](https://doi.org/10.1371/journal.pone.0123923.)
+
+[“How Does Social Media Impact Bitcoin Value? A Test of the Silent Majority Hypothesis.”](https://doi.org/10.1080/07421222.2018.1440774.)
+
+[“Time-Series Analysis with VAR & VECM: Statistical Approach with Complete Python Code.”](https://towardsdatascience.com/vector-autoregressions-vector-error-correction-multivariate-model-a69daf6ab618.)
+
+[“Harvesting Social Media Sentiment Analysis to Enhance Stock Market Prediction Using Deep Learning.”](https://doi.org/10.7717/peerj-cs.476.)
+
+[“A Cooperative Deep Learning Model for Stock Market Prediction Using Deep Autoencoder and Sentiment Analysis.”](https://doi.org/10.7717/peerj-cs.1158.)
+
+[“What Affects the Price Movements in Bitcoin and Ethereum?”](https://doi.org/10.1111/manc.12352.)
+
+[“An Optimal Deep Learning-Based LSTM for Stock Price Prediction Using Twitter Sentiment Analysis.”](https://doi.org/10.1007/s10489-022-03175-2.)
 ### Literature
 Abraham, Jethin, Daniel Higdon, John Nelson, Juan Ibarra, and Jack Nelson. 2018. “Cryptocurrency Price Prediction Using Tweet Volumes and Sentiment Analysis.” SMU Data Science Review 1 (3). https://scholar.smu.edu/cgi/viewcontent.cgi?article=1039&context=datasciencereview.
 
