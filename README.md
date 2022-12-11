@@ -53,7 +53,7 @@ The research project is expected to contribute to combining the fields of combin
 - **Literature Review**:
 
 <img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/literature_review/STATS201%402x.png" height="500" alt="Contribution to Literature"/><br/>
-***Figure No.2**. Contribution to Literature (created by [Whimsical](https://whimsical.com))*
+***Figure No.2**. Contribution to Literature (created by [Whimsical](https://whimsical.com/stats201-Y7pqkCdhkqPRAopSZtsuJX))*
 
 Figure No.2 provides a brief outline of the literature review in terms of research background, methodology, and application scenario, as well as the contribution our project makes to the existing literature.
 
