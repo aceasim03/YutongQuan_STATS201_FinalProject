@@ -140,6 +140,8 @@ SciEcon. 2021. “SRS2021/More about the Paper/Sentiment Analysis at Main · Sci
 
 Swathi, T., N. Kasiviswanath, and A. Ananda Rao. 2022. “An Optimal Deep Learning-Based LSTM for Stock Price Prediction Using Twitter Sentiment Analysis.” Applied Intelligence, March. https://doi.org/10.1007/s10489-022-03175-2.
 
-Zhang, Luyao (Sunshine). 2022. “Machine Learning for Predictions.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/ml-prediction/release/3.
+Zhang, Luyao (Sunshine). 2022a. “Machine Learning for Social Science.” Machine Learning for Social Science. https://ms.pubpub.org/.
+
+———. 2022b. “Machine Learning for Predictions.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/ml-prediction/release/3.
 
 Zhang, Luyao, Xinshi Ma, and Yulin Liu. 2022. “SoK: Blockchain Decentralization.” ArXiv:2205.04256 [Cs, Econ, Q-Fin], May. https:/
