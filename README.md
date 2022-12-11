@@ -108,7 +108,7 @@ Abraham, Jethin, Daniel Higdon, John Nelson, Juan Ibarra, and Jack Nelson. 2018.
 
 Ao, Ziqiao, Gergely Horvath, and Luyao Zhang. 2022. “Are Decentralized Finance Really Decentralized? A Social Network Analysis of the Aave Protocol on the Ethereum Blockchain.” Arxiv.org, June. https://doi.org/10.48550/arXiv.2206.08401.
 
-“API Documentation | Alpha Vantage.” 2022. Www.alphavantage.co. 2022. https://www.alphavantage.co/documentation/#currency-daily.
+“API Documentation: Alpha Vantage.” 2022. Www.alphavantage.co. 2022. https://www.alphavantage.co/documentation/#currency-daily.
 
 Aslanidis, Nektarios, Aurelio F. Bariviera, and Óscar G. López. 2022. “The Link between Cryptocurrencies and Google Trends Attention.” Finance Research Letters 47 (June): 102654. https://doi.org/10.1016/j.frl.2021.102654.
 
