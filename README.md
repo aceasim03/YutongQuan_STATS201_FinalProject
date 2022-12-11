@@ -21,11 +21,11 @@ Firstly, we are expected to successfully predict the price of Aave with Twitter 
 The research project is expected to contribute to combining the fields of combining cryptocurrency forecasting, social sentiment analysis, and econometric methods. In addition, it enriches the research on the Aave token by combining social sentiment with the prediction of Aave’s price for the first time, encouraging more exploration of this token. It has important practical implications to predict the value of Aave more accurately through social sentiment analysis. On the one hand, our results provide a reference for cryptocurrency investors to estimate future price volatility and calculate expected returns. On the other hand, policymakers can disentangle the forces behind cryptocurrencies to craft regulations and curb financial stability risks.
 
 ## Table of Contents
-- [Data](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/README.md#data)
-- [Code](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/README.md#code)
-- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/README.md#spotlight)
-- [More about the Author](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/README.md#more-about-the-author)
-- [References](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/README.md#references)
+- [Data](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject#data)
+- [Code](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject#code)
+- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject#spotlight)
+- [More about the Author](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject#more-about-the-author)
+- [References](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject#references)
 
 ## Data
 |                    |                                                    **Cryptocurrency Data**                                                   |                       **Social Media Data**                      |
