@@ -70,7 +70,7 @@ Figure No.3 is the confusion matrix of [Multi-Layer Classification](https://scik
 Figure No.4 is the histogram of [Random Forest Regression](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn-neural-network-mlpclassifier) algorithm for Aave ROI prediction. The histogram provides an evaluation of the performance of the regression algorithm we use. For the data set we used for prediction, the X variable is the past 30-day moving average of daily return on investment of Aave, the Y variable is the future return on investment. In this figure, the X-axis is the predicted ROI value of Aave and the Y-axis is the amount of data set, where a larger number means more predicted values in this interval, while a smaller number means fewer predicted values. Blue represents the true rate of return and green represents our predicted rate of return. The figure shows that the blue and green squares highly coincide, which means that the predicted results are highly close to the true results. In addtion, the R2 score is equal to 0.79 (the closer to 1, the better), it also shows that our model has a high accuracy.
 
 ## More about the Author
-<img src="https://raw.githubusercontent.com/yutongquan/Yutong-Quan/main/image/yutong.quan.jpg" width="150" alt="yutong"/><br/>
+<img src="https://raw.githubusercontent.com/yutongquan/Yutong-Quan/main/image/yutong.quan.jpg" width="150" alt="yutong" div align = center/><br/>
 - **Self Introduction**: 
 Yutong Quan is a junior student majoring in Political Economy with Economics track at Duke Kunshan University. She is interested in Finance, Artificial intelligence, Blockchain, and Behavior Economics.
 - **Final Reflections**:
