@@ -11,10 +11,8 @@ Cryptocurrencies have become a popular research subject in financial markets. Si
 Therefore, our study will focus on Aave, a native utility token of a top-one decentralization finance application on Ethereum, and explore how to predict the price of Aave using social sentiment analysis.
   - **Application Scenario**: 
 Our raw input variables: The historical time-series data of monetary value of Aave, and the tweets with specific hashtags.
-
-Cryptocurrency Data: Our data set comprises daily market prices (AAVE–USD exchange rates) from [Alpha Vantage API](https://www.alphavantage.co/documentation/#currency-daily). We include open price, high price, low price, close price, and daily volume of AAVE from Oct 2020 to Dec 2022 in the dataset.
-
-Social Media Data:  We collect tweets that contained the hashtag (#Aave/#AAVE) from [snscrape API](https://github.com/JustAnotherArchivist/snscrape). The timestamp is also from Oct 2020 to Dec 2022.
+*#Cryptocurrency Data#*: Our data set comprises daily market prices (AAVE–USD exchange rates) from [Alpha Vantage API](https://www.alphavantage.co/documentation/#currency-daily). We include open price, high price, low price, close price, and daily volume of AAVE from Oct 2020 to Dec 2022 in the dataset.
+*#Social Media Data#*:  We collect tweets that contained the hashtag (#Aave/#AAVE) from [snscrape API](https://github.com/JustAnotherArchivist/snscrape). The timestamp is also from Oct 2020 to Dec 2022.
 
   - **Methodology**: 
 First, we apply the Valence Aware Dictionary and sEntiment Reasoner (VADER) to quantify the sentiment polarity (positive/negative) and sentiment intensity (-1~1) of tweets. Then, we use the Exponential Moving Average (EMA) to measure the volatility of Aave’s price. Finally, we use the Vector Error Correction Model (VECM) to predict Aave’s price with social sentiment scores.
