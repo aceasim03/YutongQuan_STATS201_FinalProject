@@ -54,7 +54,7 @@ The research project is expected to contribute to combining the fields of combin
 
 - **Literature Review**:
 
-<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/literature_review/STATS201%402x.png" width="800" alt="Contribution to Literature"/><br/>
+<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/literature_review/STATS201%402x.png" width="200" alt="Contribution to Literature"/><br/>
 
 ## More about the Author
 <img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/author/yt_edit.jpg" width="800" alt="yutong"/><br/>
