@@ -36,12 +36,12 @@ The research project is expected to contribute to combining the fields of combin
 
 ## Code
 - [Query Data](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/code/Aave_data_query.ipynb)
-- Process Data
-- Analyze Data
-- ...
+- [Process Data](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/code/Aave_data_process.ipynb)
+- [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/code/Aave_data_analyze.ipynb)
 
 ## Spotlight
-- Posters
+- **Posters**:
+urlhttps://www.canva.com/design/DAFT4IoV8IA/oWx29r3k_Kc1GwRRdocM2g/view?utm_content=DAFT4IoV8IA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - Figures
 - Slides
 - Presentations
@@ -51,9 +51,9 @@ The research project is expected to contribute to combining the fields of combin
 ## More about the Author
 - ![Yutong](./image/yutong.quan.jpg)
 - **Self Introduction**: 
-Yutong Quan is a junior student majoring in Political Economy with Economics track at Duke Kunshan University. She is interested in Finance, Artificial intelligence, and Behavior Economics.
+Yutong Quan is a junior student majoring in Political Economy with Economics track at Duke Kunshan University. She is interested in Finance, Artificial intelligence, Blockchain, and Behavior Economics.
 - **Final reflections**：
-[how to apply a various machine learning methods to solve social science issues?]
+The discussion on applying machine learning methods to solve social science problems can be divided into three sections. The first section is data description. We can use a variety of data visualization methods, including histograms and heatmaps, to communicate social science problems to the public in a more concise and clear way, which is also convenient for us to conduct further analysis and interpretation. The second section is the data prediction. We input historical data containing X variables and Y variables into the machine, and then use machine learning algorithms to learn the data, thus to predict the Y variables we want. Data prediction provides a good tool for us to solve prediction problems in social sciences by traversing a large amount of historical data and looking for internal laws. For example, we can use historical stock prices to predict future stock market movements and provide decision suggestions for investors, companies and governments. We conduct causal inference when social scientists want to explore the reasons why one variable in a system may affect another. Based on massive data and algorithms, machine learning evaluates the causal effect of each predictor variable on the outcome, making it more convenient to determine the causality.
 
 ## References
 
