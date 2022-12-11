@@ -12,7 +12,7 @@ Therefore, our study will focus on Aave, a native utility token of a top-one dec
 - **Application Scenario**: 
 Our raw input variables: The historical time-series data of monetary value of Aave, and the tweets with specific hashtags.
   - **Cryptocurrency Data**: Our data set comprises daily market prices (AAVE–USD exchange rates) from [Alpha Vantage API](https://www.alphavantage.co/documentation/#currency-daily). We include open price, high price, low price, close price, and daily volume of AAVE from Oct 2020 to Dec 2022 in the dataset.
-  - **Social Media Data**:  We collect tweets that contained the hashtag (#Aave/#AAVE) from [snscrape API](https://github.com/JustAnotherArchivist/snscrape). The timestamp is also from Oct 2020 to Dec 2022.
+  - **Social Media Data**:  We collect tweets that contained the hashtag (#Aave/#AAVE) from [Snscrape API](https://github.com/JustAnotherArchivist/snscrape). The timestamp is also from Oct 2020 to Dec 2022.
 - **Methodology**: 
 First, we apply the Valence Aware Dictionary and sEntiment Reasoner (VADER) to quantify the sentiment polarity (positive/negative) and sentiment intensity (-1~1) of tweets. Then, we use the Exponential Moving Average (EMA) to measure the volatility of Aave’s price. Finally, we use the Vector Error Correction Model (VECM) to predict Aave’s price with social sentiment scores.
 - **Expected Results**: 
@@ -21,19 +21,13 @@ Firstly, we are expected to successfully predict the price of Aave with Twitter 
 The research project is expected to contribute to combining the fields of combining cryptocurrency forecasting, social sentiment analysis, and econometric methods. In addition, it enriches the research on the Aave token by combining social sentiment with the prediction of Aave’s price for the first time, encouraging more exploration of this token. It has important practical implications to predict the value of Aave more accurately through social sentiment analysis. On the one hand, our results provide a reference for cryptocurrency investors to estimate future price volatility and calculate expected returns. On the other hand, policymakers can disentangle the forces behind cryptocurrencies to craft regulations and curb financial stability risks.
 
 ## Table of Contents
-- data
-- code
-- spotlight
-- more about the author
-- references
-
-
+- [Data](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Data)
+- [Code](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Code)
+- [Spotlight](https://github.com/yutongquan/STATS201_Problem_Set_2/tree/main/Spotlight)
+- [more about the author]()
+- [references]()
 
 ## Data
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
 
 
 ## Code
