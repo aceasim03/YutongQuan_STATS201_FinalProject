@@ -4,6 +4,7 @@
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Final Project for [STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: Firstly, I would like to express my greatest gratitude to Prof. Luyao Zhang for her generous and inspiring instructions on STATS201 Introduction to Machine Learning for Social Science. Also, I would like to thank all my classmates for their valuable comments on this project.
+
 ## Project Summary
 - **Background & Motivation**:
 Cryptocurrencies have become a popular research subject in financial markets. Since they do not have the fundamental value of the currency, predicting the price of cryptocurrencies is an important and complex question. Based on the literature, we find that social media sentiment is an important indicator of driving cryptocurrency price movements. For example, more positive tweets are associated with higher cryptocurrency value. However, existing research on cryptocurrency price prediction has mainly focused on the two main currencies, Bitcoin and Ethereum, and has not extended to other tokens. 
