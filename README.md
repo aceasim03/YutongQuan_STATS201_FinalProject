@@ -46,7 +46,7 @@ The research project is expected to contribute to combining the fields of combin
 
 - **Figures**:
 
-![cm](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/figures/MLC_ConfusionMatrix.png =500x400)
+![cm](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/figures/MLC_ConfusionMatrix.png #pic_center =300x200)
 ![roc](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/figures/MLC_ROC.png =500x400)
 
 ![r](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/figures/MLC_ConfusionMatrix.png =500x400)
