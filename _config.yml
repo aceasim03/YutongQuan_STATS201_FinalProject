@@ -1,6 +1,6 @@
 plugins:
 - jemoji
 - jekyll-remote-theme
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 title: Yutong
 description: The page of Yutong Quan's STATS201 Introduction to Machine Learning for Social Science Final Project
