@@ -51,7 +51,7 @@ The research project is expected to contribute to combining the fields of combin
 ![poster](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/poster/STATS201%20Poster.png)
 ***Figure No.1**. Project Poster (created by [Canva](https://www.canva.com/design/DAFT4IoV8IA/oWx29r3k_Kc1GwRRdocM2g/view?utm_content=DAFT4IoV8IA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))*
 
-**Figure No.1** is the poster of our research project. It demonstrates the six sections of our research summary: Background and Motivation, Research Questions, Data Sources, Methodology, Contribution to Literature, and Expected Results.
+**Figure No.1** demonstrates the six sections of our research summary: Background and Motivation, Research Questions, Data Sources, Methodology, Contribution to Literature, and Expected Results.
 
 - **Literature Review**:
 
