@@ -60,7 +60,7 @@ Figure No.2 provides a brief outline of the literature review in terms of resear
 
 - **Figures**:
 
-<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/figures/AAVE_ROI.png" width="1000" alt="cm"/><br/>
+<img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/figures/AAVE_ROI.png" alt="ROI"/><br/>
 ***Figure No.3**. The Time-Series ROI chart of Aave (source from [Alpha Vantage: Digital & Crypto Currencies/DIGITAL_CURRENCY_DAILY](https://www.alphavantage.co/documentation/#digital-currency), created by [plotly](https://plotly.com/python/time-series/))*
 
 Figure No.3 is the time-series chart of Aave's return on investment(ROI) from Oct 2020 to Dec 2022. The X-axis shows the timestamp and the Y-axis shows the ROI value of Aave (-0.2~0.5). The ROI line fluctuates around Y=0, and the ROI of Aave is larger when the line fluctuates upward; When the line fluctuates downward, the ROI is smaller. Also, We need to note that the X-axis from right to left represents the time closer to the present. From this figure, we can find that on May 18, 2021, Aave has the highest ROI of 0.52. And on March 28, 2022, Aave has the lowest ROI of -0.25.
