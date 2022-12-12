@@ -51,6 +51,8 @@ The research project is expected to contribute to combining the fields of combin
 ![poster](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/poster/STATS201%20Poster.png)
 ***Figure No.1**. Project Poster (created by [Canva](https://www.canva.com/design/DAFT4IoV8IA/oWx29r3k_Kc1GwRRdocM2g/view?utm_content=DAFT4IoV8IA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))*
 
+Figure No.2 provides a brief outline of the literature review in terms of research background, methodology, and application scenario, as well as the contribution our project makes to the existing literature.
+
 - **Literature Review**:
 
 <img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/literature_review/STATS201%402x.png" height="500" alt="Contribution to Literature"/><br/>
@@ -65,15 +67,18 @@ Figure No.2 provides a brief outline of the literature review in terms of resear
 
 Figure No.3 is the time-series chart of Aave's return on investment(ROI) from Oct 2020 to Dec 2022. The X-axis shows the timestamp and the Y-axis shows the ROI value of Aave (-0.2~0.5). The ROI line fluctuates around Y=0. When the line fluctuates upward, the ROI of Aave is larger; and when the line fluctuates downward, the ROI is smaller. Also, We need to note that the X-axis from right to left represents the time closer to the present. From this figure, we can find that on May 18, 2021, Aave has the highest ROI of 0.52. And on March 28, 2022, Aave has the lowest ROI of -0.25.
 
+
 <img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/figures/MLC_ConfusionMatrix.png" width="500" alt="cm"/><br/>
 ***Figure No.4**. The Confusion Matrix for Multi-Layer Classification (source from [Alpha Vantage: Digital & Crypto Currencies/DIGITAL_CURRENCY_DAILY](https://www.alphavantage.co/documentation/#digital-currency), created by [sklearn.neural_network.MLPClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn-neural-network-mlpclassifier))*
 
 Figure No.4 is the confusion matrix of [Multi-Layer Classification](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn-neural-network-mlpclassifier) algorithm for Aave daily return on investment (ROI) prediction. The confusion matrix provides an evaluation of the performance of the classification algorithm we use. For the data set we used for prediction, the X variable is the past 30-day moving average of daily return on investment of Aave, the Y variable is the future return on investment(where ROI>0 = positive, and ROI<0 = negative). In this matrix, the X-axis is the predicted label and the Y-axis is the true label, where 0 indicates a negative ROI and 1 indicates a positive ROI. As it approaches yellow, the number is larger, and as it approaches purple, the number is smaller. The figure shows that our model correctly classifies all 124 Positive ROI cases (True Positive), and all 138 negative ROI cases (True Negative). The model accuracy is (TP + TN)/(TP + TN + FP + FN) = 262/262 = 1, the recall is TP/(TP + FN) = 124/124 = 1, and the precision is TP/(TP + FP) = 124/124 = 1 (Formula reference: [Krukrubo 2019](https://pub.towardsai.net/the-confusion-matrix-for-classification-eb3bcf3064c7)).
 
+
 <img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/figures/RF_regression_figure.png" width="500" alt="r"/><br/>
 ***Figure No.5**. The Regression Histogram for Random Forest Regression (source from [Alpha Vantage: Digital & Crypto Currencies/DIGITAL_CURRENCY_DAILY](https://www.alphavantage.co/documentation/#digital-currency), created by [sklearn.ensemble.RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#sklearn-ensemble-randomforestregressor))*
 
 Figure No.5 is the histogram of [Random Forest Regression](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn-neural-network-mlpclassifier) algorithm for Aave return on investment (ROI) prediction. The histogram provides an evaluation of the performance of the regression algorithm we use. For the data set we used for prediction, the X variable is the past 30-day moving average of daily return on investment of Aave, the Y variable is the future return on investment. In this figure, the X-axis is the predicted ROI value of Aave and the Y-axis is the amount of data set, where a larger number means more predicted values in this interval, while a smaller number means fewer predicted values. Blue represents the true rate of return and green represents our predicted rate of return. The figure shows that the blue and green squares are highly overlapping, which means that the predicted results are highly close to the true results. In addtion, the R2 score is equal to 0.79 (the closer to 1, the better), which also indicates the high accuracy of our model.
+
 
 ## More about the Author
 <img src="https://raw.githubusercontent.com/yutongquan/Yutong-Quan/main/image/yutong.quan.jpg" width="150" alt="yutong" /><br/>
