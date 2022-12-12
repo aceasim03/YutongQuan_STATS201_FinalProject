@@ -42,7 +42,8 @@ The research project is expected to contribute to combining the fields of combin
 ## Code
 - [Query Data](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/code/Aave_data_query.ipynb)
 - [Process Data](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/code/Aave_data_process.ipynb)
-- [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/code/Aave_data_analyze.ipynb)
+- [Analyze Data for Explanation](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/code/Aave_data_analyze_for_explanation.ipynb)
+- [Analyze Data for Prediction](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/code/Aave_data_analyze_for_prediction.ipynb)
 
 ## Spotlight
 - **Posters**:
