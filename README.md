@@ -46,29 +46,25 @@ The research project is expected to contribute to combining the fields of combin
 - [Analyze Data for Prediction](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/blob/main/code/Aave_data_analyze_for_prediction.ipynb)
 
 ## Spotlight
-- **Poster**:
-
+### Poster
 ![poster](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/poster/STATS201%20Poster.png)
 ***Figure No.1**. Project Poster (created by [Canva](https://www.canva.com/design/DAFT4IoV8IA/oWx29r3k_Kc1GwRRdocM2g/view?utm_content=DAFT4IoV8IA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))*
 
 **Figure No.1** demonstrates the six sections of our research summary: Background and Motivation, Research Questions, Data Sources, Methodology, Contribution to Literature, and Expected Results.
 
-- **Literature Review**:
-
+### Literature Review
 <img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/literature_review/STATS201%402x.png" height="500" alt="Contribution to Literature"/><br/>
 ***Figure No.2**. Contribution to Literature (created by [Whimsical](https://whimsical.com/stats201-Y7pqkCdhkqPRAopSZtsuJX))*
 
 **Figure No.2** provides a brief outline of the literature review in terms of research background, methodology, and application scenario, as well as the contribution our project makes to the existing literature.
 
-- **Explanation Figure**:
-
+### Explanation Figure
 <img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/figures/AAVE_ROI.png" alt="ROI"/><br/>
 ***Figure No.3**. The Time-Series ROI chart of Aave (source from [Alpha Vantage: Digital & Crypto Currencies/DIGITAL_CURRENCY_DAILY](https://www.alphavantage.co/documentation/#digital-currency), created by [plotly](https://plotly.com/python/time-series/))*
 
 **Figure No.3** is the time-series chart of Aave's return on investment (ROI) from Oct 2020 to Dec 2022. The X-axis shows the timestamp and the Y-axis shows the ROI value of Aave (-0.2~0.5). The ROI line fluctuates around Y=0. When the line fluctuates upward, the ROI of Aave is larger; and when the line fluctuates downward, the ROI is smaller. Also, We should note that the X-axis from right to left represents the time closer to the present. From this figure, we can find that on May 18, 2021, Aave has the highest ROI of 0.52. And on March 28, 2022, Aave has the lowest ROI of -0.25.
 
-- **Prediction Figures**:
-
+### Prediction Figures
 <img src="https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject/main/spotlight/figures/MLC_ConfusionMatrix.png" width="500" alt="cm"/><br/>
 ***Figure No.4**. The Confusion Matrix for Multi-Layer Classification (source from [Alpha Vantage: Digital & Crypto Currencies/DIGITAL_CURRENCY_DAILY](https://www.alphavantage.co/documentation/#digital-currency), created by [sklearn.neural_network.MLPClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn-neural-network-mlpclassifier))*
 
