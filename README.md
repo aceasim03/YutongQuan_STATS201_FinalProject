@@ -75,7 +75,7 @@ Figure No.4 is the histogram of [Random Forest Regression](https://scikit-learn.
 Yutong Quan is a junior student majoring in Political Economy with Economics track at Duke Kunshan University. She is interested in Finance, Artificial intelligence, Blockchain, and Behavior Economics.
 - **Final Reflections**:
 The discussion on applying machine learning methods to solve social science problems can be divided into four parts. The first part is data explanation. We can use a variety of data visualization methods, including histograms and heatmaps, to communicate social science problems to the public in a more concise and clear way, which is also convenient for us to conduct further analysis and interpretation. The second part is the data prediction. We input historical data containing X variables and Y variables into the machine, and then use supervised machine learning algorithms to learn the data and results, thus to figure out the possibility we successfully predict the true value. Data prediction provides a good tool for us to solve prediction problems in social sciences by traversing a large amount of historical data and looking for internal laws. For example, we can use historical stock prices to predict future stock market movements and provide decision suggestions for investors, companies and governments. The third part is causal inference. We conduct causal inference when social scientists want to explore the reasons why one variable in a system may affect another. Based on massive data and algorithms, machine learning evaluates the causal effect of each predictor variable on the outcome, making it more convenient to determine the causality. The last part is optimization, that is to find the strategy which maximize our objectives based on a decision environment of state-action-reward pairs. By using reinforcement learning algorithm and inputing our objectives, the machine can help to find the best strategy even though the detailed environment may change. The use of machine learning to find optimal solutions is widespread. One example is using artificial intelligence to find the portfolio that achieves the best performance.
-(Reference: [Zhang 2022](https://static.us.edusercontent.com/files/VPylj7pOo2dMB3aSRxPsMtJg))
+(Reference: [Machine Learning for Social Science: Match the right tool to the job](https://whimsical.com/machine-learning-for-social-science-match-the-right-tool-to-the--8zuA7Bg5bYQPkRgMJCoywA))
 
 ## References
 
@@ -145,6 +145,8 @@ Sabalionis, Arturas, Wenbo Wang, and Hail Park. 2020. “What Affects the Price 
 SciEcon. 2021. “SRS2021/More about the Paper/Sentiment Analysis at Main · SciEcon/SRS2021.” GitHub. 2021. https://github.com/SciEcon/SRS2021/tree/main/More%20about%20the%20paper/Sentiment%20Analysis.
 
 Swathi, T., N. Kasiviswanath, and A. Ananda Rao. 2022. “An Optimal Deep Learning-Based LSTM for Stock Price Prediction Using Twitter Sentiment Analysis.” Applied Intelligence, March. https://doi.org/10.1007/s10489-022-03175-2.
+
+Zhang, Luyao. 2022. “Machine Learning for Social Science: Match the Right Tool to the Job.” Whimsical. 2022. https://whimsical.com/machine-learning-for-social-science-match-the-right-tool-to-the--8zuA7Bg5bYQPkRgMJCoywA.
 
 Zhang, Luyao (Sunshine). 2022a. “Machine Learning for Social Science.” Machine Learning for Social Science. https://ms.pubpub.org/.
 
