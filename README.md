@@ -15,11 +15,16 @@ Our raw input variables: The historical time-series data of monetary value of Aa
   - **Cryptocurrency Data**: Our data set comprises daily market prices (AAVE–USD exchange rates) from [Alpha Vantage API](https://www.alphavantage.co/documentation/#currency-daily). We include open price, high price, low price, close price, and daily volume of AAVE from Oct 2020 to Dec 2022 in the dataset.
   - **Social Media Data**:  We collect tweets that contained the hashtag (#Aave/#AAVE) from [Snscrape API](https://github.com/JustAnotherArchivist/snscrape). The timestamp is also from Oct 2020 to Dec 2022.
 - **Methodology**: 
-First, we apply the Valence Aware Dictionary and sEntiment Reasoner (VADER) to quantify the sentiment polarity (positive/negative) and sentiment intensity (-1~1) of tweets. Then, we use the Exponential Moving Average (EMA) to measure the volatility of Aave’s price. Finally, we use the Vector Error Correction Model (VECM) to predict Aave’s price with social sentiment scores.
+  - We apply the Valence Aware Dictionary and sEntiment Reasoner (VADER) to quantify the sentiment polarity (positive/negative) and sentiment intensity (-1~1) of tweets.
+  - We use the Exponential Moving Average (EMA) to measure the volatility of Aave’s price. 
+  - With the above two methods, we can have our X-variables ready, which are the number of positive/negative tweets and the EMA of Aave's price. Therefore, we use the Vector Error Correction Model (VECM) to do the regression and thus predict Aave’s price with social sentiment scores.
 - **Expected Results**: 
 Firstly, we are expected to successfully predict the price of Aave with Twitter using social sentiment analysis. In addition, we expect to find that the more positive tweets predict higher Aave prices, while more negative tweets predict lower Aave prices.
 - **Intellectual Merit & Practical Impacts**: 
-The research project is expected to contribute to combining the fields of combining cryptocurrency forecasting, social sentiment analysis, and econometric methods. In addition, it enriches the research on the Aave token by combining social sentiment with the prediction of Aave’s price for the first time, encouraging more exploration of this token. It has important practical implications to predict the value of Aave more accurately through social sentiment analysis. On the one hand, our results provide a reference for cryptocurrency investors to estimate future price volatility and calculate expected returns. On the other hand, policymakers can disentangle the forces behind cryptocurrencies to craft regulations and curb financial stability risks.
+  - Firstly, The research project is expected to contribute to combining the fields of combining cryptocurrency forecasting, social sentiment analysis, and econometric methods. 
+  - Secondly, it enriches the research on the Aave token by combining social sentiment with the prediction of Aave’s price for the first time, encouraging more exploration of this token. It has important practical implications to predict the value of Aave more accurately through social sentiment analysis. On the one hand, our results provide a reference for cryptocurrency investors to estimate future price volatility and calculate expected returns. On the other hand, policymakers can disentangle the forces behind cryptocurrencies to craft regulations and curb financial stability risks.
+  - Thirdly, our research inspires research on other [ERC-20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/#top) (Ethereum Request for Comments 20) tokens, since they have almost the same token standard with Aave.
+  - In addition, our study has limitations in dealing with manipulation issues and the user behavioral bias.  We do not consider the deviation of too many negative tweets caused by robot manipulation and users' subjective malicious evaluation, and its adverse impact on the prediction of token price.  Future research could take these disturbing factors into account to achieve more accurate price prediction.
 
 ## Table of Contents
 - [Data](https://github.com/Rising-Stars-by-Sunshine/YutongQuan_STATS201_FinalProject#data)
@@ -125,6 +130,8 @@ Ao, Ziqiao, Gergely Horvath, and Luyao Zhang. 2022. “Are Decentralized Finance
 “API Documentation: Alpha Vantage.” 2022. Www.alphavantage.co. 2022. https://www.alphavantage.co/documentation/#currency-daily.
 
 Aslanidis, Nektarios, Aurelio F. Bariviera, and Óscar G. López. 2022. “The Link between Cryptocurrencies and Google Trends Attention.” Finance Research Letters 47 (June): 102654. https://doi.org/10.1016/j.frl.2021.102654.
+
+“ERC-20 Token Standard.” 2022. Ethereum.org. August 15, 2022. https://ethereum.org/en/developers/docs/standards/tokens/erc-20/#top.
 
 Glaser, Florian, Kai Zimmermann, Martin Haferkorn, Moritz Christian Weber, and Michael Siering. 2014. “Bitcoin - Asset or Currency? Revealing Users’ Hidden Intentions.” Ssrn.com. 2014. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2425247.
 
