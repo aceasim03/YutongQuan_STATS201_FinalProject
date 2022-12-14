@@ -7,7 +7,7 @@
 
 ## Project Summary
 - **Background & Motivation**:
-Cryptocurrencies have become a popular research subject in financial markets. Since they do not have the fundamental value of the currency, predicting the price of cryptocurrencies is an important and complex question (Mai et al. 2018). Based on the literature, we find that social media sentiment is an important indicator of driving cryptocurrency price movements (Abraham et al. 2018; Aslanidis, Bariviera, and López 2022; Glaser et al. 2014; Kristoufek 2013; Kristoufek 2015; Mehta, Pandya, and Kotecha 2021; Rekha and Sabu 2022; Sabalionis, Wang, and Park 2020; Swathi, Kasiviswanath, and Rao 2022). For example, more positive tweets are associated with higher cryptocurrency value (Mai et al. 2018). However, existing research on cryptocurrency price prediction has mainly focused on the two main currencies, Bitcoin and Ethereum, and has not extended to other tokens. 
+Cryptocurrencies have become a popular research subject in financial markets. Since they do not have the fundamental value of the currency, predicting the price of cryptocurrencies is an important and complex question (Mai et al. 2018). Based on the literature, we find that social media sentiment is an important indicator of driving cryptocurrency price movements (Abraham et al. 2018; Aslanidis, Bariviera, and López 2022; Glaser et al. 2014; Kristoufek 2013; Mai et al. 2018; Sabalionis, Wang, and Park 2020). For example, more positive tweets are associated with higher cryptocurrency value (Mai et al. 2018). However, existing research on cryptocurrency price prediction has mainly focused on the two main currencies, Bitcoin and Ethereum, and has not extended to other tokens. 
 - **Research Questions**:
 Our study will focus on Aave, a native utility token of a top-one decentralization finance application on Ethereum, and mainly explore how to predict the price of Aave using social sentiment analysis. Besides, we consider a follow-up question, i.e., what is the relationship between the sentiment polarity of tweets and the price of Aave?
 - **Application Scenario**: 
@@ -15,9 +15,9 @@ Our raw input variables: The historical time-series data of the monetary value o
   - **Cryptocurrency Data**: Our data set comprises daily market prices (AAVE–USD exchange rates) from [Alpha Vantage API](https://www.alphavantage.co/documentation/#currency-daily). We include open price, high price, low price, close price, and daily volume of AAVE from Oct 2020 to Dec 2022 in the dataset.
   - **Social Media Data**:  We collect tweets that contained the hashtag (#Aave/#AAVE) from [Snscrape API](https://github.com/JustAnotherArchivist/snscrape). The timestamp is also from Oct 2020 to Dec 2022.
 - **Methodology**: 
-  - We apply the Valence Aware Dictionary and sEntiment Reasoner (VADER) to quantify the sentiment polarity (positive/negative) and sentiment intensity (-1~1) of tweets.
-  - We use the Exponential Moving Average (EMA) to measure the volatility of Aave’s price. 
-  - With the above two methods, we can have our X-variables ready, which are the number of positive/negative tweets and the EMA of Aave's price. Therefore, we use the Vector Error Correction Model (VECM) to do the regression and thus predict Aave’s price.
+  - We apply the [Valence Aware Dictionary and sEntiment Reasoner (VADER)] (https://ojs.aaai.org/index.php/ICWSM/article/view/14550) to quantify the sentiment polarity (positive/negative) and sentiment intensity (-1~1) of tweets.
+  - We use the Exponential Moving Average (EMA) to measure the volatility of Aave’s price (Mai et al. 2018). 
+  - With the above two methods, we can have our X-variables ready, which are the number of positive/negative tweets and the EMA of Aave's price. Therefore, we use the Vector Error Correction Model (VECM) (Mai et al. 2018; Maitra 2020) to do the regression and thus predict Aave’s price.
 - **Expected Results**: 
 Firstly, we are expected to successfully predict the price of Aave with Twitter using social sentiment analysis. In addition, we expect to find that more positive tweets predict higher Aave prices, while more negative tweets predict lower Aave prices.
 - **Intellectual Merit & Practical Impacts**: 
