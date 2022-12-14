@@ -17,7 +17,7 @@ Our raw input variables: The historical time-series data of the monetary value o
 - **Methodology**: 
   - We apply the [Valence Aware Dictionary and sEntiment Reasoner (VADER)](https://ojs.aaai.org/index.php/ICWSM/article/view/14550) to quantify the sentiment polarity (positive/negative) and sentiment intensity (-1~1) of tweets.
   - We use the Exponential Moving Average (EMA) to measure the volatility of Aave’s price (Mai et al. 2018). 
-  - With the above two methods, we can have our X-variables ready, which are the number of positive/negative tweets and the EMA of Aave's price. Therefore, we use the Vector Error Correction Model (VECM) (Mai et al. 2018; Maitra 2020) to do the regression and thus predict Aave’s price.
+  - With the above two methods, we can have our X-variables ready, which are the number of positive/negative tweets and the EMA of Aave's price. Therefore, we use the Vector Error Correction Model (VECM) to do the regression and thus predict Aave’s price (Mai et al. 2018; Maitra 2020).
 - **Expected Results**: 
 Firstly, we are expected to successfully predict the price of Aave with Twitter using social sentiment analysis. In addition, we expect to find that more positive tweets predict higher Aave prices, while more negative tweets predict lower Aave prices.
 - **Intellectual Merit & Practical Impacts**: 
