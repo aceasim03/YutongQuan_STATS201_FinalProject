@@ -15,7 +15,7 @@ Our raw input variables: The historical time-series data of the monetary value o
   - **Cryptocurrency Data**: Our data set comprises daily market prices (AAVE–USD exchange rates) from [Alpha Vantage API](https://www.alphavantage.co/documentation/#currency-daily). We include open price, high price, low price, close price, and daily volume of AAVE from Oct 2020 to Dec 2022 in the dataset.
   - **Social Media Data**:  We collect tweets that contained the hashtag (#Aave/#AAVE) from [Snscrape API](https://github.com/JustAnotherArchivist/snscrape). The timestamp is also from Oct 2020 to Dec 2022.
 - **Methodology**: 
-  - We apply the [Valence Aware Dictionary and sEntiment Reasoner (VADER)] (https://ojs.aaai.org/index.php/ICWSM/article/view/14550) to quantify the sentiment polarity (positive/negative) and sentiment intensity (-1~1) of tweets.
+  - We apply the [Valence Aware Dictionary and sEntiment Reasoner (VADER)](https://ojs.aaai.org/index.php/ICWSM/article/view/14550) to quantify the sentiment polarity (positive/negative) and sentiment intensity (-1~1) of tweets.
   - We use the Exponential Moving Average (EMA) to measure the volatility of Aave’s price (Mai et al. 2018). 
   - With the above two methods, we can have our X-variables ready, which are the number of positive/negative tweets and the EMA of Aave's price. Therefore, we use the Vector Error Correction Model (VECM) (Mai et al. 2018; Maitra 2020) to do the regression and thus predict Aave’s price.
 - **Expected Results**: 
